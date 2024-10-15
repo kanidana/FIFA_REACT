@@ -1,0 +1,6 @@
+/* application de l'arriere plan  */
+.App{
+  background-image: url('/public/green-football-field-with-grass-sunset_1067477-327.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
